@@ -16,9 +16,9 @@ city == "NYC" ? a =  "Ok, sounds good." : a =  "No go.";
 return a;
 } 
 
-function switchOnCharmFromTip(){
-  if 
+function switchOnCharmFromTip(tip){
+  alert(tip)
   
-  return "Bye."
+  return "Bye.";
   
 }
