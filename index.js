@@ -1,17 +1,13 @@
 
 function scuberGreetingForFeet(feet){
-  switch (feet) {
-    case feet < 400:
-      return 'This one is on me!';
-      break;
-    case(feet > 2500):
+
+  if (feet < 400)
+    return 'This one is on me!';
+  else if (feet > 2500)
       return 'I will gladly take your thirty bucks.';
-      break;
-    case(feet > 2000):
-      return ''
-      break;
-      
-  if( feet < 4000)
+  else if (feet > 2000)
+      return 'I will gladly take your thirty bucks.';
+    
 } 
 
 //— Use if and else if statements to return the correct greeting based on the distance the passenger desires to travel.
