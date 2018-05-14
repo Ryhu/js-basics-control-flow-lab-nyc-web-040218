@@ -18,6 +18,7 @@ return a;
 
 function switchOnCharmFromTip(tip){
   if tip == "generous"
+    return "Thank you so much."
   
   return "Bye.";
   
