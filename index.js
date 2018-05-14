@@ -17,5 +17,8 @@ return a;
 } 
 
 function switchOnCharmFromTip(){
+  if 
+  
   return "Bye."
+  
 }
