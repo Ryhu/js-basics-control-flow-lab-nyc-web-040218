@@ -5,7 +5,7 @@ function scuberGreetingForFeet(feet){
       return 'This one is on me!';
       break;
     case(feet > 2500):
-      return 'I will gladly take your thirty bucks.';;
+      return 'I will gladly take your thirty bucks.';
       break;
     case(feet > 2000):
       return ''
