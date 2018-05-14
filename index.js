@@ -12,8 +12,11 @@ function scuberGreetingForFeet(feet){
 
 function ternaryCheckCity(city){
 a = ""
-city == "N<YC" ? a =  "Ok, sounds good." : a =  "No go.";
+city == "NYC" ? a =  "Ok, sounds good." : a =  "No go.";
 return a
 } 
-//— Use a ternary operator to return the correct response based on the desired destination of the passenger.
-// switchOnCharmFromTip() — Use a switch statement to return a different response based on the generosity of the passenger's tip.
+
+switchOnCharmFromTip(){
+  
+}
+//— Use a switch statement to return a different response based on the generosity of the passenger's tip.
