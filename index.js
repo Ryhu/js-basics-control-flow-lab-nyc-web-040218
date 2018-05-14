@@ -1,5 +1,5 @@
 
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(feet){
   switch feet {
     case(x < 400):
       return "free"
