@@ -4,6 +4,9 @@ function scuberGreetingForFeet(feet){
     case(feet < 400):
       return 'This one is on me!'
       break;
+    case(feet < 400):
+    return 'No can do.'
+    break;
       
   }
 
