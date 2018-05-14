@@ -1,6 +1,7 @@
 
 function scuberGreetingForFeet(){
-  
+  switch feet 
+    case x < 400
 } 
 //— Use if and else if statements to return the correct greeting based on the distance the passenger desires to travel.
 // ternaryCheckCity() — Use a ternary operator to return the correct response based on the desired destination of the passenger.
