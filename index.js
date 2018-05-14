@@ -1,7 +1,7 @@
 
 function scuberGreetingForFeet(feet){
   switch (feet) {
-    case < 400:
+    case feet < 400:
       return 'This one is on me!'
       break;
     case(feet > 2500):
